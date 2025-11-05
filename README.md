@@ -1,6 +1,6 @@
-# Code Crackers AI/ML Learning Repository
+# AI/ML Learning Repository
 
-Welcome to the official **Code Crackers AI/ML Learning Repository**.  
+Welcome to the official **AI/ML Learning Repository**.  
 This repository is structured as a 12-week guided journey into the world of **Artificial Intelligence** and **Machine Learning**, with weekly content, resources, coding practice, and structured learning tasks.
 
 ---
@@ -75,7 +75,7 @@ This personal log should include learnings, exercises, and task completions.
 
 ## Contribution & Usage
 
-This repository is maintained by the **Code Crackers Club** and is intended solely for educational use during the AI/ML learning program.
+This repository is maintained by the **Manmohan Zanwar** and is intended solely for educational use during the AI/ML learning program.
 
 ---
 
