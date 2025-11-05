@@ -52,12 +52,12 @@ Each file under `weekly-guide/` includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Git-Rexdev/Code-Crackers-AIML-Resources.git
+   git clone https://github.com/Git-Rexdev/AIML-Resources.git
    ```
 
 2. Navigate to the weekly guide folder:
    ```bash
-   Code-Crackers-AIML-Resources/Weekly_Guide
+   AIML-Resources/Weekly_Guide
    ```
 
 3. Open the relevant week's markdown file to begin learning.
